@@ -1,0 +1,1219 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"BG.jpg",320,240
+ L,153,72
+  F,1,0,335,1
+  S,1,0,335,0.65,0.64
+ S,0,0,,0.64
+ F,0,0,153,0,1
+ F,0,153,31996,1
+ F,0,31996,32331,1,0
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"sb\Flash.png",320,240
+ F,0,153,823,0.7,0
+Sprite,Foreground,Centre,"sb\Flash.png",320,240
+ F,0,10879,11549,0.7,0
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,291
+ MY,0,22766,24106,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,612
+ MY,0,27249,29069,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,277
+ MY,0,23072,24712,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,597
+ MY,0,24183,26423,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,616
+ MY,0,27231,29651,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.23
+ MX,0,0,,252
+ MY,0,14775,16655,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,-30
+ MY,0,9049,12249,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,589
+ MY,0,19517,22357,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,518
+ MY,0,10509,11789,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,109
+ MY,0,19388,21088,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,55
+ MY,0,2328,4508,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,658
+ MY,0,24259,26919,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.37
+ MX,0,0,,369
+ MY,0,22049,24769,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,45
+ MY,0,20341,23121,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.44
+ MX,0,0,,514
+ MY,0,7328,10468,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,634
+ MY,0,13403,14803,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,314
+ MY,0,21109,23469,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.35
+ MX,0,0,,661
+ MY,0,29412,32012,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,30
+ MY,0,3738,6098,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,363
+ MY,0,9804,11144,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,41
+ MY,0,7016,8596,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,489
+ MY,0,28890,31550,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,23
+ MY,0,1098,4178,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,511
+ MY,0,26424,29324,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.42
+ MX,0,0,,412
+ MY,0,18023,21043,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,251
+ MY,0,6075,7355,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,619
+ MY,0,25620,28520,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,648
+ MY,0,29223,31883,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,22
+ MY,0,20771,22231,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,456
+ MY,0,24677,27577,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,252
+ MY,0,4712,5812,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,279
+ MY,0,19389,20489,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,158
+ MY,0,16689,17849,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,253
+ MY,0,7208,10048,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,559
+ MY,0,6121,8781,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,231
+ MY,0,23021,24841,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.35
+ MX,0,0,,633
+ MY,0,24127,26727,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.33
+ MX,0,0,,300
+ MY,0,15044,17524,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,142
+ MY,0,8629,10089,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,150
+ MY,0,15240,17660,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.24
+ MX,0,0,,108
+ MY,0,16622,18562,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,486
+ MY,0,2966,4786,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,657
+ MY,0,25201,26661,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,428
+ MY,0,26925,28265,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.27
+ MX,0,0,,404
+ MY,0,2184,4304,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,520
+ MY,0,716,2056,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.35
+ MX,0,0,,635
+ MY,0,29848,32448,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.37
+ MX,0,0,,-37
+ MY,0,25557,28277,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,435
+ MY,0,4546,7626,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,215
+ MY,0,10752,12212,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,-15
+ MY,0,24932,26032,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,458
+ MY,0,12219,13739,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,27
+ MY,0,12446,13726,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.25
+ MX,0,0,,637
+ MY,0,11696,13696,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,621
+ MY,0,4850,6490,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,267
+ MY,0,17464,20364,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.27
+ MX,0,0,,145
+ MY,0,4987,7107,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,330
+ MY,0,1966,3786,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,470
+ MY,0,27563,29083,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.12
+ MX,0,0,,651
+ MY,0,19749,20969,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,306
+ MY,0,12574,14934,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,-1
+ MY,0,30006,32366,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,443
+ MY,0,3583,6663,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.33
+ MX,0,0,,401
+ MY,0,9069,11549,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,398
+ MY,0,770,3970,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,461
+ MY,0,8924,10264,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,371
+ MY,0,14732,16312,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,92
+ MY,0,2440,3720,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,517
+ MY,0,20993,23233,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,311
+ MY,0,20104,23304,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,510
+ MY,0,164,1564,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.26
+ MX,0,0,,669
+ MY,0,1085,3145,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,69
+ MY,0,25036,27936,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.37
+ MX,0,0,,292
+ MY,0,20494,23214,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.33
+ MX,0,0,,590
+ MY,0,28101,30581,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.42
+ MX,0,0,,-21
+ MY,0,24898,27918,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,410
+ MY,0,10593,11693,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.23
+ MX,0,0,,73
+ MY,0,2678,4558,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,200
+ MY,0,25387,27087,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,172
+ MY,0,15180,16880,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,282
+ MY,0,2032,3492,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,169
+ MY,0,28460,31360,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,683
+ MY,0,15366,17786,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,293
+ MY,0,16710,18950,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,548
+ MY,0,8291,9571,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.21
+ MX,0,0,,57
+ MY,0,14068,15828,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,594
+ MY,0,13357,16017,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.41
+ MX,0,0,,184
+ MY,0,18969,21929,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,628
+ MY,0,29312,31672,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,90
+ MY,0,23551,25971,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,193
+ MY,0,4841,7741,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,406
+ MY,0,16334,17434,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,682
+ MY,0,17737,20037,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,185
+ MY,0,24222,25382,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,539
+ MY,0,8365,9765,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,552
+ MY,0,14653,16473,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,229
+ MY,0,8287,9747,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.25
+ MX,0,0,,-5
+ MY,0,28990,30990,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,272
+ MY,0,17413,18753,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.23
+ MX,0,0,,669
+ MY,0,9446,11326,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,488
+ MY,0,8047,10827,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,243
+ MY,0,195,1535,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,492
+ MY,0,20181,21641,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,600
+ MY,0,2954,4354,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,422
+ MY,0,22988,25228,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,211
+ MY,0,20410,22590,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,312
+ MY,0,21421,22701,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,327
+ MY,0,7054,9894,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,94
+ MY,0,13345,14985,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,664
+ MY,0,13067,14527,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,154
+ MY,0,26585,27685,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,349
+ MY,0,5746,8106,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.24
+ MX,0,0,,151
+ MY,0,7679,9619,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.12
+ MX,0,0,,554
+ MY,0,868,2088,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.27
+ MX,0,0,,81
+ MY,0,5156,7276,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.25
+ MX,0,0,,98
+ MY,0,1248,3248,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.12
+ MX,0,0,,616
+ MY,0,26508,27728,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.27
+ MX,0,0,,395
+ MY,0,18495,20615,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,-26
+ MY,0,8473,9993,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,366
+ MY,0,29758,31278,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.37
+ MX,0,0,,125
+ MY,0,26153,28873,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,107
+ MY,0,530,2890,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,375
+ MY,0,4359,5639,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.12
+ MX,0,0,,264
+ MY,0,29001,30221,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.34
+ MX,0,0,,457
+ MY,0,3767,6307,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.21
+ MX,0,0,,-4
+ MY,0,821,2581,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,248
+ MY,0,9548,12748,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.12
+ MX,0,0,,359
+ MY,0,25500,26720,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.34
+ MX,0,0,,149
+ MY,0,3092,5632,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,623
+ MY,0,16156,18336,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.35
+ MX,0,0,,145
+ MY,0,11318,13918,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,66
+ MY,0,6149,8449,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.44
+ MX,0,0,,64
+ MY,0,9549,12689,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,614
+ MY,0,27098,29518,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.27
+ MX,0,0,,629
+ MY,0,9878,11998,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.42
+ MX,0,0,,313
+ MY,0,177,3197,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.44
+ MX,0,0,,139
+ MY,0,24458,27598,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,449
+ MY,0,26775,28175,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.34
+ MX,0,0,,-34
+ MY,0,6321,8861,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,627
+ MY,0,21268,24348,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.33
+ MX,0,0,,399
+ MY,0,27929,30409,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,386
+ MY,0,17934,19334,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,632
+ MY,0,11268,13508,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.42
+ MX,0,0,,475
+ MY,0,2979,5999,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,257
+ MY,0,11119,13299,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,335
+ MY,0,11241,13661,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,21
+ MY,0,17801,20581,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.33
+ MX,0,0,,485
+ MY,0,22947,25427,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,309
+ MY,0,16238,18598,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,686
+ MY,0,16719,18059,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,401
+ MY,0,26959,28539,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,670
+ MY,0,838,2538,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.21
+ MX,0,0,,492
+ MY,0,28947,30707,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,417
+ MY,0,9615,11915,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,480
+ MY,0,11789,14029,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,336
+ MY,0,1976,3616,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,569
+ MY,0,19698,21878,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,35
+ MY,0,1653,4493,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.41
+ MX,0,0,,73
+ MY,0,5068,8028,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,-9
+ MY,0,499,1779,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,556
+ MY,0,17250,20330,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,98
+ MY,0,11926,13206,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.25
+ MX,0,0,,203
+ MY,0,20238,22238,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,253
+ MY,0,6676,9456,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.26
+ MX,0,0,,152
+ MY,0,9381,11441,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,225
+ MY,0,6407,7507,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.44
+ MX,0,0,,302
+ MY,0,3394,6534,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,617
+ MY,0,10106,11506,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.27
+ MX,0,0,,575
+ MY,0,19185,21305,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,586
+ MY,0,12816,15656,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.34
+ MX,0,0,,652
+ MY,0,12333,14873,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,502
+ MY,0,6840,9680,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,687
+ MY,0,19473,21653,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,239
+ MY,0,13543,15003,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.25
+ MX,0,0,,271
+ MY,0,24632,26632,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,500
+ MY,0,21506,24406,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,657
+ MY,0,10673,13453,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,619
+ MY,0,26438,28738,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,126
+ MY,0,4402,7482,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,511
+ MY,0,23194,25014,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.27
+ MX,0,0,,133
+ MY,0,18328,20448,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.26
+ MX,0,0,,551
+ MY,0,19246,21306,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,12
+ MY,0,3581,5761,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.23
+ MX,0,0,,368
+ MY,0,19797,21677,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,440
+ MY,0,14916,16196,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.26
+ MX,0,0,,332
+ MY,0,23668,25728,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,633
+ MY,0,22117,23397,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.42
+ MX,0,0,,2
+ MY,0,19688,22708,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,342
+ MY,0,515,1675,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.28
+ MX,0,0,,10
+ MY,0,2968,5148,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,599
+ MY,0,26985,28565,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,572
+ MY,0,4895,6295,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,83
+ MY,0,21016,23436,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.33
+ MX,0,0,,392
+ MY,0,29091,31571,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.24
+ MX,0,0,,465
+ MY,0,9613,11553,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,234
+ MY,0,12683,14263,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,215
+ MY,0,15063,17723,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,-24
+ MY,0,13683,16583,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,657
+ MY,0,7834,9294,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,412
+ MY,0,17555,19255,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,-35
+ MY,0,12657,13757,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.34
+ MX,0,0,,513
+ MY,0,750,3290,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,197
+ MY,0,4326,7166,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,15
+ MY,0,28360,30180,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.21
+ MX,0,0,,518
+ MY,0,25473,27233,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.23
+ MX,0,0,,198
+ MY,0,13454,15334,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,390
+ MY,0,15536,16936,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,392
+ MY,0,24241,26901,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,278
+ MY,0,23708,26608,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.41
+ MX,0,0,,618
+ MY,0,12211,15171,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,35
+ MY,0,29190,31430,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,355
+ MY,0,10384,12684,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,168
+ MY,0,19782,22862,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,156
+ MY,0,21224,22384,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,362
+ MY,0,12772,14412,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,399
+ MY,0,11730,13370,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.32
+ MX,0,0,,552
+ MY,0,15461,17881,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,-1
+ MY,0,24166,25326,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.25
+ MX,0,0,,404
+ MY,0,4227,6227,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.21
+ MX,0,0,,123
+ MY,0,8552,10312,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.25
+ MX,0,0,,496
+ MY,0,25608,27608,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,670
+ MY,0,28215,31415,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,322
+ MY,0,23589,25109,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,534
+ MY,0,22597,23757,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.21
+ MX,0,0,,550
+ MY,0,13356,15116,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,233
+ MY,0,3025,4185,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,245
+ MY,0,13774,16674,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,610
+ MY,0,17304,18584,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,74
+ MY,0,8161,9321,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.43
+ MX,0,0,,102
+ MY,0,15909,18989,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.12
+ MX,0,0,,227
+ MY,0,4757,5977,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,582
+ MY,0,18706,20946,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,309
+ MY,0,18695,21055,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,398
+ MY,0,9045,10325,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,514
+ MY,0,1610,2710,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,217
+ MY,0,17507,19147,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,-21
+ MY,0,21576,23156,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,562
+ MY,0,11657,14557,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,155
+ MY,0,14572,17472,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,445
+ MY,0,10431,13211,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,139
+ MY,0,27900,29600,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.24
+ MX,0,0,,390
+ MY,0,8730,10670,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.44
+ MX,0,0,,558
+ MY,0,29546,32686,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.42
+ MX,0,0,,303
+ MY,0,23388,26408,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,66
+ MY,0,13822,16602,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,337
+ MY,0,22122,23462,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,460
+ MY,0,2126,4966,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,551
+ MY,0,23890,25290,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,520
+ MY,0,21223,23463,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,52
+ MY,0,6907,9207,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,154
+ MY,0,21029,23869,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.22
+ MX,0,0,,225
+ MY,0,23540,25360,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,515
+ MY,0,24344,25804,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.29
+ MX,0,0,,393
+ MY,0,18417,20657,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,646
+ MY,0,9163,11463,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.34
+ MX,0,0,,637
+ MY,0,10188,12728,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.37
+ MX,0,0,,504
+ MY,0,1381,4101,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,155
+ MY,0,21632,24832,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.26
+ MX,0,0,,49
+ MY,0,30086,32146,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,382
+ MY,0,4129,6969,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.34
+ MX,0,0,,509
+ MY,0,26147,28687,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,8
+ MY,0,11536,13056,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.38
+ MX,0,0,,450
+ MY,0,2560,5340,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.37
+ MX,0,0,,636
+ MY,0,13528,16248,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,288
+ MY,0,29015,30295,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.41
+ MX,0,0,,313
+ MY,0,8206,11166,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,222
+ MY,0,18239,21139,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.24
+ MX,0,0,,86
+ MY,0,26554,28494,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,676
+ MY,0,24856,28056,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,529
+ MY,0,25260,26840,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.16
+ MX,0,0,,449
+ MY,0,27267,28727,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,500
+ MY,0,10437,13337,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.4
+ MX,0,0,,632
+ MY,0,25798,28698,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,138
+ MY,0,10955,12595,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,390
+ MY,0,26621,29461,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.39
+ MX,0,0,,508
+ MY,0,29949,32789,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.33
+ MX,0,0,,490
+ MY,0,26858,29338,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,342
+ MY,0,17355,18875,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,680
+ MY,0,29629,31929,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.13
+ MX,0,0,,362
+ MY,0,8985,10265,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.42
+ MX,0,0,,130
+ MY,0,6263,9283,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.19
+ MX,0,0,,351
+ MY,0,16601,18241,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.35
+ MX,0,0,,408
+ MY,0,17594,20194,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.3
+ MX,0,0,,256
+ MY,0,7525,9825,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,129
+ MY,0,470,1810,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.31
+ MX,0,0,,689
+ MY,0,17865,20225,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.18
+ MX,0,0,,565
+ MY,0,17166,18746,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,651
+ MY,0,5515,6675,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.15
+ MX,0,0,,194
+ MY,0,18004,19404,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.37
+ MX,0,0,,216
+ MY,0,29054,31774,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.23
+ MX,0,0,,365
+ MY,0,8362,10242,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.1
+ MX,0,0,,65
+ MY,0,23018,24118,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.11
+ MX,0,0,,197
+ MY,0,10878,12038,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.14
+ MX,0,0,,255
+ MY,0,17259,18599,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.21
+ MX,0,0,,427
+ MY,0,3308,5068,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,367
+ MY,0,2338,4038,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.45
+ MX,0,0,,240
+ MY,0,3218,6418,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.36
+ MX,0,0,,488
+ MY,0,29594,32254,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.2
+ MX,0,0,,-32
+ MY,0,26337,28037,520,-40
+Sprite,Foreground,Centre,"sb\Light.png",320,240
+ S,0,0,,0.17
+ MX,0,0,,656
+ MY,0,25405,26925,520,-40
+//Storyboard Sound Samples

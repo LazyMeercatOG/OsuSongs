@@ -1,0 +1,68 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 48922
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1.2
+
+[Metadata]
+Title:Pangarap Lang Kita
+TitleUnicode:Pangarap Lang Kita
+Artist:Parokya ni Edgar ft. Happee Sy
+ArtistUnicode:Parokya ni Edgar ft. Happee Sy
+Creator:Mooooncake
+Version:Dalangin
+Source:
+Tags:
+BeatmapID:1661479
+BeatmapSetID:789147
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3.3
+OverallDifficulty:3.5
+ApproachRate:5
+SliderMultiplier:0.999999904632569
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"1366x768.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1126.10820661816,508.474576271186,4,2,1,100,1,0
+49431,-80,4,2,1,100,0,1
+65702,-100,4,2,1,100,0,0
+106126,-80,4,2,1,100,0,1
+122651,-100,4,2,1,100,0,0
+129515,-40,4,2,1,100,0,0
+130787,-71.4285714285714,4,2,1,100,0,1
+146804,-71.4285714285714,4,2,1,100,0,0
+162821,-71.4285714285714,4,2,1,100,0,1
+
+
+[Colours]
+Combo1 : 145,91,242
+Combo2 : 223,149,242
+
+[HitObjects]
+69,55,16888,6,0,L|108:114,1,49.9999952316285,2|2,0:0|0:0,0:0:0:0:
+103,156,17397,2,0,P|83:226|94:264,1,99.999990463257,2|2,0:0|0:0,0:0:0:0:
